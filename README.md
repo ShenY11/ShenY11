@@ -1,9 +1,4 @@
-- Hi, I'm Yuting Shen, a junior student currently studying Computer Science in Georgia Tech.
+- Hi, I'm Yuting Shen, a senior CS student at GeorgiaTech with concentrations in Intelligence & Info/Networks.
 
-- I'm interested in software development. 
-  I established three application projects (one for Android development, and two for iOS development.)
-  For the projects, I use Java, Kotlin, and Swift. I also adopted MVC and MVVM methods in the development.
-  
-- I'm also interested in low level of the computer. I work with assemble language as well as C.
-  I have two projects that demonstrate some basic concepts of the computer (page replacement and scheduling).
-  It's really fun to learn how the computer processes the information and turn the bit numbers into more complex data.
+- I'm familiar with JavaScript, Java, Python, SQL, and Swift. I also have experience in both Android Development and iOS Development, for example, React, React Native, and Swift. Besides, I use the Agile method and TDD within my projects. I'm a good team player with familiarity with GitHub. I’m a good team player with experience in development patterns such as Agile and MVC. 
+Hope to work with you soon! Thank you!
